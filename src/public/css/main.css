@@ -1,0 +1,8 @@
+body{
+    background: #16222A;  
+    background: -webkit-linear-gradient(to right, #3A6073, #16222A);  
+    background: linear-gradient(to right, #3A6073, #16222A); 
+}
+.logo{
+    width: 40%;
+}
